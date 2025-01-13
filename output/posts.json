@@ -1,0 +1,23 @@
+[
+  {
+    "title": "My Journey in Software Development: Year One - The Beginning",
+    "date": "2024-10-15",
+    "summary": "The beginning of my journey in Software Development.",
+    "image": "images/year-one-journey.webp",
+    "file": "Year-One/"
+  },
+  {
+    "title": "My Journey in Software Development: Year Two - The Climb",
+    "date": "2024-10-14",
+    "summary": "My second year in Software Development, finishing my diploma.",
+    "image": "images/year-two-journey.webp",
+    "file": "Year-Two/"
+  },
+  {
+    "title": "My Journey in Software Development: Year Three – The Final Ascent",
+    "date": "2024-10-13",
+    "summary": "My third year in Software Development, continuing my studies and completing my Bachelor of IT.",
+    "image": "images/year-three-journey.webp",
+    "file": "Year-Three/"
+  }
+]
